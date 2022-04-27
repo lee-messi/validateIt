@@ -19,14 +19,14 @@ validateIt
 │   │   ...
 │    
 └───tests
-│   └───testthat
-│       │   testcombMass.R
-│       │   testevalResults.R
-│       │   ...
-│   
-│   └───testdata
-│       │   allR4WSItasktest.rda
-│       │   goldR4WSItest.rda
-│       │   ...
-│   
+    └───testthat
+        │   testcombMass.R
+        │   testevalResults.R
+        │   ...
+    
+    └───testdata
+        │   allR4WSItasktest.rda
+        │   goldR4WSItest.rda
+        │   ...
+    
 ```
