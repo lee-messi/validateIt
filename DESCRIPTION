@@ -21,6 +21,7 @@ RoxygenNote: 7.1.1
 Imports:
 	pyMTurkR,
 	stm,
-	tm
+	tm,
+	stats
 Suggests: 
     testthat
