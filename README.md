@@ -21,12 +21,12 @@ validateIt
 │   │   ...
 │    
 └───tests
-    │   testthat.R
-    └───testthat
-    │   │   testcombMass.R
-    │   │   testevalResults.R
-    │   │   ...
-    │ 
+│   │   testthat.R
+│   └───testthat
+│   │   │   testcombMass.R
+│   │   │   testevalResults.R
+│   │   │   ...
+│    
 └───data
     │   allR4WSItasktest.rda
     │   goldR4WSItest.rda
