@@ -23,9 +23,9 @@ validateIt
 └───tests
 │   │   testthat.R
 │   └───testthat
-│   │   │   testcombMass.R
-│   │   │   testevalResults.R
-│   │   │   ...
+│       │   testcombMass.R
+│       │   testevalResults.R
+│       │   ...
 │    
 └───data
     │   allR4WSItasktest.rda
