@@ -1,25 +1,18 @@
 ## validateIt: An R Package for Topic and Label Validation
 
-Authors: [Luwei Ying](http://luweiying.org), [Jacob Montgomery](https://pages.wustl.edu/montgomery) and [Brandon Stewart](http://brandonstewart.org)
+This is forked from Luwei's Github page: https://github.com/Luwei-Ying/validateIt. 
 
-Please email all comments/questions to luwei.ying [AT] wustl.edu
+$ ./tree-md .
+# Project tree
 
-### Installation Instructions
-The package is currently not available on CRAN. You can install the most recent development version using the devtools package. First you have to install devtools using the following code.  Note that you only have to do this once
-
-```  
-if(!require(devtools)) install.packages("devtools")
-```  
-
-Then you'll need to install the dependency, "pyMTurkR", using the function `install_github`. If you need to interact with Mturk, be sure to follow the detailed instructions here: github.com/cloudyr/pyMTurkR
-```
-devtools::install_github("cloudyr/pyMTurkR")
-```
-
-Now you can install our package
-
-```
-devtools::install_github("Luwei-Ying/validateIt", dependencies=TRUE)
-```
-
-Note that this will install all the packages suggested and required to run our package.  It may take a few minutes the first time, but this only needs to be done on the first use.  In the future you can update to the most recent development version using the same code. 
+.
+ * [tree-md](./tree-md)
+ * [man](./man)
+ * [R](./R)
+ * [tests](./tests)
+   * [testthat](./tests/testthat)
+   * [testdata](./tests/testdata)
+ * [file_in_root.ext](./file_in_root.ext)
+ * [README.md](./README.md)
+ * [NAMESPACE](./NAMESPACE)
+ * [DESCRIPTION](./DESCRIPTION)
