@@ -2,6 +2,8 @@
 
 This is forked from Luwei's Github page: https://github.com/Luwei-Ying/validateIt. 
 
+## Updating File Directory
+
 Previously, the file directory had looked like this: 
 
 ```
@@ -63,6 +65,8 @@ validateIt
         │   ...
     
 ```
+
+## Updating Import Code
 
 Previously, all test files started by loading datasets from the /data folder using lines like this: 
 ```
