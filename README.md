@@ -3,20 +3,30 @@
 This is forked from Luwei's Github page: https://github.com/Luwei-Ying/validateIt. 
 
 ```
-project
+validateIt
 │   README.md
-│   file001.txt    
+│   NAMESPACE
+│   DESCRIPTION
 │
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
+└───R
+    │   checkAgree.R
+    │   combMass.R
+    │   ...
+│   
+└───man
+    │   checkAgree.Rd
+    │   combMass.Rd
+    │   ...
+    │
+└───testes
+│   │   testthat
+│       │   testcombMass.R
+│       │   testevalResults.R
+│       │   ...
 │   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
+│   └───testdata
+│       │   allR4WSItasktest.rda
+│       │   goldR4WSItest.rda
 │       │   ...
 │   
-└───folder2
-    │   file021.txt
-    │   file022.txt
 ```
