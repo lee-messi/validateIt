@@ -20,13 +20,13 @@ validateIt
 │    
 └───tests
     └───testthat
-        │   testcombMass.R
-        │   testevalResults.R
-        │   ...
-    
+    │   │   testcombMass.R
+    │   │   testevalResults.R
+    │   │   ...
+    │ 
     └───testdata
-        │   allR4WSItasktest.rda
-        │   goldR4WSItest.rda
-        │   ...
+    │   │   allR4WSItasktest.rda
+    │   │   goldR4WSItest.rda
+    │   │   ...
     
 ```
