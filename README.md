@@ -25,8 +25,8 @@ validateIt
     │   │   ...
     │ 
     └───testdata
-    │   │   allR4WSItasktest.rda
-    │   │   goldR4WSItest.rda
-    │   │   ...
+        │   allR4WSItasktest.rda
+        │   goldR4WSItest.rda
+        │   ...
     
 ```
