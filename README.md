@@ -80,7 +80,7 @@ Because the directory has changed, the lines need to be replaced with something 
 load("../testdata/modtest.rda")
 ```
 
-## Documentation Problems 
+## Updates to Documentation
 
 
 
