@@ -25,8 +25,7 @@ validateIt
 │   └───testthat
 │       │   testcombMass.R
 │       │   testevalResults.R
-│       │   ...
-│    
+│       │   ...   
 └───data
     │   allR4WSItasktest.rda
     │   goldR4WSItest.rda
@@ -51,14 +50,13 @@ validateIt
 │   │   checkAgree.Rd
 │   │   combMass.Rd
 │   │   ...
-│    
+│
 └───tests
     │   testthat.R
     └───testthat
     │   │   testcombMass.R
     │   │   testevalResults.R
     │   │   ...
-    │ 
     └───testdata
         │   allR4WSItasktest.rda
         │   goldR4WSItest.rda
