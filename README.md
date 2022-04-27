@@ -9,17 +9,17 @@ validateIt
 │   DESCRIPTION
 │
 └───R
-    │   checkAgree.R
-    │   combMass.R
-    │   ...
+│   │   checkAgree.R
+│   │   combMass.R
+│   │   ...
 │   
 └───man
-    │   checkAgree.Rd
-    │   combMass.Rd
-    │   ...
-    
-└───testes
-│   │   testthat
+│   │   checkAgree.Rd
+│   │   combMass.Rd
+│   │   ...
+│    
+└───tests
+│   └───testthat
 │       │   testcombMass.R
 │       │   testevalResults.R
 │       │   ...
