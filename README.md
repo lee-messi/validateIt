@@ -17,13 +17,13 @@ validateIt
     │   checkAgree.Rd
     │   combMass.Rd
     │   ...
-    │
+    
 └───testes
 │   │   testthat
 │       │   testcombMass.R
 │       │   testevalResults.R
 │       │   ...
-│   │
+│   
 │   └───testdata
 │       │   allR4WSItasktest.rda
 │       │   goldR4WSItest.rda
