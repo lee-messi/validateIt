@@ -1,6 +1,8 @@
-## validateIt: An R Package for Topic and Label Validation
+# validateIt: An R Package for Topic and Label Validation
 
 This is forked from Luwei's Github page: https://github.com/Luwei-Ying/validateIt. 
+
+## Loading Error
 
 ### Updating File Directory
 
@@ -77,3 +79,12 @@ Because the directory has changed, the lines need to be replaced with something 
 ```
 load("../testdata/modtest.rda")
 ```
+
+## Documentation Problems 
+
+
+
+
+
+
+
