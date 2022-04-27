@@ -63,3 +63,13 @@ validateIt
         │   ...
     
 ```
+
+Previously, all test files started by loading datasets from the /data folder using lines like this: 
+```
+load("../../data/modtest.rda")
+```
+
+Because the directory has changed, the lines need to be replaced with something like this: 
+```
+load("../testdata/modtest.rda")
+```
